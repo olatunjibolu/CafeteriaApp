@@ -27,4 +27,6 @@ Route::get('/','FoodController@listFood');
 
 Route::get('/foods/{id}','FoodController@view')->name('food.view');
 
+Route::resource('order','OrderController')->middleware('auth');
+
 
