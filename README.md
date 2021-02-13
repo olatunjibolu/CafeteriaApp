@@ -8,7 +8,7 @@
 </p>
 
 ## Cafeteria App
-Manages food and beverages menu for a cafeteria
+Built on Laravel framework. The app manages food and beverages menu for a cafeteria.
 
 ## About Laravel
 
